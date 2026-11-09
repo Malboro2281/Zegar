@@ -35,6 +35,7 @@ namespace Zegar
 
             TydzienText.Text = "Numer tygodnia: " +
                 ISOWeek.GetWeekOfYear(teraz);
+
         }
     }
 }
